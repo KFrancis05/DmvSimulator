@@ -16,7 +16,7 @@ public class DmvSimulator {
                 count++;
             }
             System.out.println(number);
-            System.out.println("Sorry, you do not have the correct paperwork!");
+            System.out.println("Your'e wasting my time, you do not have the correct paperwork. Next time, don't come!");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
